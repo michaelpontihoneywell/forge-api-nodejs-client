@@ -36,7 +36,7 @@
 		"coverage": "nyc npm run test"
 	},
 	"dependencies": {
-		"axios": "^0.27.2",
+		"axios": "^1.13.2",
 		"jsonwebtoken": "^9.0.1",
 		"jwks-rsa": "^3.0.1",
 		"retry-axios": "^3.0.0"
